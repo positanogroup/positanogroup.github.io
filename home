@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Positano Group LLC</title>
+    <style>
+        body {
+            background-color: #cccccc;
+            font-family: Arial, sans-serif;
+            height: 100vh;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .container {
+            text-align: center;
+            color: #333;
+        }
+        h1 {
+            font-size: 48px;
+            font-weight: bold;
+            margin: 0;
+        }
+        p {
+            font-size: 20px;
+            margin: 10px 0;
+        }
+        .location, .contact {
+            font-size: 16px;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Positano Group LLC</h1>
+        <p>Strategic Finance and CFO Services</p>
+        <p class="location">Brooklyn, NY</p>
+        <p class="contact">Contact us: <a href="mailto:info@positanogroup.com">info@positanogroup.com</a></p>
+    </div>
+</body>
+</html>
